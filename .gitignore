@@ -1,0 +1,15 @@
+# Exclude zip archives
+*.zip
+
+# Exclude SQLite database files
+*.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
